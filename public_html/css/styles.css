@@ -1,0 +1,130 @@
+ 
+html {
+    scroll-behavior: smooth;
+    text-align: center;
+
+}
+
+body
+{
+ text-align: center;
+ background-color: black;
+ font-family: arial; 
+}
+#navbar {
+  overflow: hidden;
+  background-color: black;
+  font-family: fantasy;
+  }
+#navbar a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 1%;
+  text-decoration: none;
+}
+#navbar a {
+  float: right;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 1%;    
+}
+
+#nav1:hover {
+  background-color: white;
+  color: red;
+ }
+#nav2:hover {
+  background-color: white;
+  color: red;
+}
+#nav3:hover {
+  background-color: white;
+  color: red;
+}
+#nav4:hover {
+  background-color: white;
+  color: red;
+ 
+}#nav5:hover {
+  background-color: white;
+  color: red;
+ 
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+
+}
+#table2{
+  margin-top: 100px;
+  border-collapse: collapse;
+  background-color:black;
+  color: white;
+  text-align: center;
+  border-color: white;
+  
+}
+.class{
+  align-content: center;
+  color:white;      
+  font-size: large;
+  font-weight: bolder;
+}
+
+#result{
+    float: bottom;
+    position: fixed;
+    bottom: 12px;
+}
+
+
+
+
+#myBtn {
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+
+
+#section{
+    background-color: aliceblue;
+    height: 200px;
+    padding: 12%;
+    text-decoration-color: black;
+   
+}
+#section1{
+  
+    height: 100px;
+    padding: 9%;
+   
+}
+#section2{
+  
+    height: 90px;
+    padding: 9%;
+   
+}
+
+
+
